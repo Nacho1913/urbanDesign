@@ -29,6 +29,7 @@ header{
     display: flex;
     align-items: center;
     margin-bottom: 1rem;
+    justify-content: center;
 }
 
 ul{
@@ -44,6 +45,11 @@ ul{
 a{
     text-decoration: none;
     color: var(--text);
+}
+
+#logoUrb{
+    border-radius: 20px;
+    height: 300px;
 }
 
 .hero{
