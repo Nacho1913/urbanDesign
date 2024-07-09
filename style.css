@@ -64,7 +64,7 @@ a{
 }
 
 .logo{
-    height: 200px;
+    height: 100px;
     border-radius: 1rem;
 }
 
@@ -103,8 +103,9 @@ span{
 .ropa{
         color: var(--text);
         display: flex;
-        flex-direction: column;
+        /* flex-direction: column; */
         justify-content: center;
+        flex-wrap: wrap;
     
 }
 
